@@ -1,0 +1,5 @@
+org\quarkusOneToOne\Entity\Aadhar.class
+org\quarkusOneToOne\Function\CitizenFunction.class
+org\quarkusOneToOne\Entity\Citizen.class
+org\quarkusOneToOne\Resources\CitizenResource.class
+org\quarkusOneToOne\Resources\AadharResource.class
